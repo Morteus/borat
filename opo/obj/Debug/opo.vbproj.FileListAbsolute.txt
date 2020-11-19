@@ -1,0 +1,12 @@
+C:\Users\JayCes\source\repos\opo\bin\Debug\opo.exe.config
+C:\Users\JayCes\source\repos\opo\bin\Debug\opo.exe
+C:\Users\JayCes\source\repos\opo\bin\Debug\opo.pdb
+C:\Users\JayCes\source\repos\opo\bin\Debug\opo.xml
+C:\Users\JayCes\source\repos\opo\obj\Debug\opo.vbprojAssemblyReference.cache
+C:\Users\JayCes\source\repos\opo\obj\Debug\opo.Form1.resources
+C:\Users\JayCes\source\repos\opo\obj\Debug\opo.Resources.resources
+C:\Users\JayCes\source\repos\opo\obj\Debug\opo.vbproj.GenerateResource.cache
+C:\Users\JayCes\source\repos\opo\obj\Debug\opo.vbproj.CoreCompileInputs.cache
+C:\Users\JayCes\source\repos\opo\obj\Debug\opo.exe
+C:\Users\JayCes\source\repos\opo\obj\Debug\opo.xml
+C:\Users\JayCes\source\repos\opo\obj\Debug\opo.pdb
